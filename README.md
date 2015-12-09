@@ -3,7 +3,7 @@ traditional chinese word / simplified chinese word convert tool for golang
 
 # Install
 ```
-go get github/sunghau/zhtool
+go get github.com/sunghau/zhtool
 ```
 
 # Example
